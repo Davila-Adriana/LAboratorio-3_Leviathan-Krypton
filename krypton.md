@@ -1,0 +1,16 @@
+  LABORATORIO 4 - KRYPTON
+
+LEVEL 1:
+   Password: KRYPTONISGREAT
+LEVEL 2:
+   Password: ROTTEN
+LEVEL 3:
+   Password: CAESARISEASY
+LEVEL 4:
+   Password: BRUTE
+LEVEL 5:
+   Password: CLEARTEXT
+LEVEL 6:
+   Password: RANDOM
+LEVEL 7:
+   Password: LFSRISNOTRANDOM
